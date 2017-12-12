@@ -15,7 +15,7 @@
     "history": "^4.6.1",
     "immutable": "4.0.0-rc.2",
     "immutable-devtools": "0.0.7",
-    "immutablepatch": "Xcraft-Inc/immutable-js-patch",
+    "immutablepatch": "github:Xcraft-Inc/immutable-js-patch",
     "leaflet": "1.2.0",
     "linq": "^3.0.8",
     "mousetrap": "^1.6.1",
