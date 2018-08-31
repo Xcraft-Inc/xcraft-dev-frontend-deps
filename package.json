@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "aphrodite": "^2.2.2",
+    "chart.js": "^2.7.2",
     "cron-parser": "^2.4.1",
     "css-key": "^1.0.0",
     "electrum-theme": "^4.6.2",
@@ -29,6 +30,7 @@
     "obj-to-css": "^1.0.1",
     "prop-types": "^15.5.10",
     "react": "^16.0.0",
+    "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.0.0",
     "react-helmet": "^5.2.0",
     "react-list": "github:Xcraft-Inc/react-list",
