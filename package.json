@@ -24,6 +24,7 @@
     "immutable-devtools": "0.0.7",
     "immutablepatch": "github:Xcraft-Inc/immutable-js-patch",
     "leaflet": "1.2.0",
+    "linked-list": "^1.0.4",
     "linq": "^3.0.8",
     "mousetrap": "^1.6.1",
     "obj-to-css": "^1.0.1",
