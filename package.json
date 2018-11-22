@@ -65,11 +65,11 @@
     "babel-plugin-transform-function-bind": "^6.22.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-react": "^6.24.1",
-    "css-loader": "0.28.7",
-    "style-loader": "^0.21.0",
-    "file-loader": "1.1.5",
-    "url-loader": "0.6.2",
-    "react-hot-loader": "^4.0.1",
+    "css-loader": "^1.0.1",
+    "style-loader": "^0.23.1",
+    "file-loader": "^2.0.0",
+    "url-loader": "^1.1.2",
+    "react-hot-loader": "^4.3.12",
     "xcraft-dev-rules": "^0.3.0",
     "prettier": "1.15.1"
   }
