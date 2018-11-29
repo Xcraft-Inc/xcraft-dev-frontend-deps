@@ -27,6 +27,7 @@
     "linked-list": "^1.0.4",
     "linq": "^3.0.8",
     "mousetrap": "^1.6.1",
+    "nivo": "^0.31.0",
     "obj-to-css": "^1.0.1",
     "plotly.js": "^1.42.2",
     "prop-types": "^15.5.10",
