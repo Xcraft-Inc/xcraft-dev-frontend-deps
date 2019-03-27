@@ -40,7 +40,7 @@
     "prop-types": "^15.5.10",
     "react": "^16.5.2",
     "react-chartjs-2": "^2.7.4",
-    "react-dom": "^16.5.2",
+    "react-dom": "^16.8.5",
     "react-helmet": "^5.2.0",
     "react-list": "github:Xcraft-Inc/react-list",
     "react-loadable": "^5.5.0",
