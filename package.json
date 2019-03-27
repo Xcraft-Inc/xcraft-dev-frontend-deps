@@ -53,7 +53,6 @@
     "react-router-dom": "^5.0.0",
     "connected-react-router": "^6.3.2",
     "recompose": "^0.23.3",
-    "redux-form": "^7.4.2",
     "redux-thunk": "^2.3.0",
     "scroll-into-view-if-needed": "^1.4.0",
     "transit-immutable-js": "^0.7.0",
