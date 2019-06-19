@@ -57,26 +57,28 @@
     "transit-js": "^0.8.846",
     "traverse": "^0.6.6",
     "uuid": "^3.0.1",
-    "xcraft-core-fs": "^1.0.1",
+    "xcraft-core-fs": "^2.0.0",
     "xcraft-core-goblin": "^3.0.0",
-    "xcraft-core-shredder": "^2.0.0"
+    "xcraft-core-shredder": "^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
     "babel-plugin-react-transform": "^2.0.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-function-bind": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-react": "^6.24.1",
     "core-js": "^2.6.0",
     "css-loader": "^1.0.1",
-    "style-loader": "^0.23.1",
     "file-loader": "^2.0.0",
-    "url-loader": "^1.1.2",
+    "prettier": "1.18.2",
     "react-hot-loader": "^4.3.12",
-    "xcraft-dev-rules": "^0.4.0",
-    "prettier": "1.16.4"
-  }
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "xcraft-dev-prettier": "^1.0.0",
+    "xcraft-dev-rules": "^1.0.2"
+  },
+  "prettier": "xcraft-dev-prettier"
 }
