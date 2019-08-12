@@ -37,6 +37,7 @@
     "@nivo/sunburst": "^0.52.1",
     "@nivo/waffle": "^0.52.1",
     "obj-to-css": "^1.0.1",
+    "papaparse": "^5.0.1",
     "prop-types": "^15.5.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.5",
