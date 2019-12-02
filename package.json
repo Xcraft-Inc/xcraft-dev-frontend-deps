@@ -75,7 +75,6 @@
     "css-loader": "^1.0.1",
     "file-loader": "^2.0.0",
     "prettier": "1.18.2",
-    "react-datatrans-light-box": "^2.0.2",
     "react-hot-loader": "^4.3.12",
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2",
