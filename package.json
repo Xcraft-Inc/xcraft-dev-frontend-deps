@@ -20,7 +20,7 @@
     "@fortawesome/pro-light-svg-icons": "^5.13.0",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
-    "goblin-theme": "^0.0.1",
+    "goblin-theme": "^1.0.0",
     "history": "^4.6.1",
     "immutable": "4.0.0-rc.4",
     "immutable-devtools": "0.0.7",
