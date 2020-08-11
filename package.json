@@ -26,9 +26,9 @@
     "format-message-parse": "^6.0.3",
     "@fortawesome/fontawesome-pro": "^5.13.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
-    "@fortawesome/pro-solid-svg-icons": "^5.13.0",
-    "@fortawesome/pro-regular-svg-icons": "^5.13.0",
-    "@fortawesome/pro-light-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/free-regular-svg-icons": "^5.13.0",
+    "@fortawesome/free-light-svg-icons": "^5.13.0",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
     "goblin-theme": "^1.0.0",
@@ -74,5 +74,10 @@
     "url-loader": "^1.1.2",
     "uuid": "^3.0.1",
     "xcraft-core-shredder": "^4.0.0"
+  },
+  "optionalDependencies": {
+    "@fortawesome/pro-solid-svg-icons": "^5.13.0",
+    "@fortawesome/pro-regular-svg-icons": "^5.13.0",
+    "@fortawesome/pro-light-svg-icons": "^5.13.0"
   }
 }
