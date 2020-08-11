@@ -1,6 +1,6 @@
 {
   "name": "xcraft-dev-frontend-deps",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Frontend dependencies package",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
