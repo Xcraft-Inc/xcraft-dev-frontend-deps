@@ -32,7 +32,7 @@
     "@fortawesome/react-fontawesome": "^0.1.9",
     "goblin-theme": "^1.0.0",
     "history": "^4.6.1",
-    "immutable": "4.0.0-rc.4",
+    "immutable": "4.0.0-rc.12",
     "immutable-devtools": "0.0.7",
     "immutablepatch": "github:Xcraft-Inc/immutable-js-patch",
     "leaflet": "1.2.0",
