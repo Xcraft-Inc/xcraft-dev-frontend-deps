@@ -67,7 +67,7 @@
     "redux-thunk": "^2.3.0",
     "scroll-into-view-if-needed": "^1.4.0",
     "style-loader": "^0.23.1",
-    "transit-immutable-js": "^0.7.0",
+    "transit-immutable-js": "^0.8.0",
     "transit-js": "^0.8.846",
     "traverse": "^0.6.6",
     "url-loader": "^1.1.2",
