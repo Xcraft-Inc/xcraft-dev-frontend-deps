@@ -46,6 +46,7 @@
     "@nivo/pie": "^0.59.1",
     "@nivo/sunburst": "^0.59.1",
     "@nivo/waffle": "^0.59.1",
+    "node-loader": "^1.0.2",
     "obj-to-css": "^1.0.1",
     "papaparse": "^5.0.1",
     "prop-types": "^15.5.10",
