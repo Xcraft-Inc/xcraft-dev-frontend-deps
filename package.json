@@ -54,6 +54,7 @@
     "node-loader": "^1.0.2",
     "obj-to-css": "^1.0.1",
     "papaparse": "^5.0.1",
+    "prettier": "2.0.4",
     "prop-types": "^15.5.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
